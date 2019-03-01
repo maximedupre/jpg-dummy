@@ -1,0 +1,19 @@
+{
+  "name": "jpg-dummy",
+  "version": "1.0.0",
+  "description": "Simple browser/node module to create a dummy jpg file of specific dimensions",
+  "main": "main.js",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/maximedupre/jpg-dummy.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/maximedupre/jpg-dummy/issues"
+  },
+  "homepage": "https://github.com/maximedupre/jpg-dummy#readme",
+  "dependencies": {
+    "jpeg-js": "0.3.4"
+  }
+}
